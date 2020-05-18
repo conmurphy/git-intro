@@ -8,4 +8,6 @@ git log
 git reset --soft
 git reset --mixed 
 git reset --hard
+git checkout -b 
+git branch
 github pull request
