@@ -1,0 +1,11 @@
+git clone
+git remote -v
+git status
+git add
+git commit
+git push
+git log
+git reset --soft
+git reset --mixed 
+git reset --hard
+github pull request
